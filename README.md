@@ -6,11 +6,12 @@ application**. Built as part of an AICTE Summer Internship.
 
 ## Made By:
 **Candidate Name:** Aditya Ranjan
+**Intern ID:** CITS83
 **Selected For:** Full Stack Web Development
 **Organization:** Codtech IT Solutions Private Limited
 **Duration:** 8 Weeks
 **Internship Period:** 17 May 2026 - 12 July 2026
-**Intern ID:** CITS83
+
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python&logoColor=white)
 ![Database](https://img.shields.io/badge/Database-PostgreSQL-336791?logo=postgresql&logoColor=white)
